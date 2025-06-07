@@ -1,6 +1,6 @@
 ## Hi, my name is Danilo 👋
 
-I'm a third-year Software Engineering student passionate about algorithms, engineering, and real-world applications of computer science. I enjoy turning complex problems into elegant code.
+I'm a dedicated Software Engineering student with a strong passion for computers, mathematics, and the sciences. I enjoy solving complex problems, learning new technologies, and applying scientific thinking to software development. Eager to grow through challenging projects and contribute to innovative solutions.
 
 - 📚 Interests: Cryptography, Machine Learning, Embedded Systems
 - 💻 Languages: Java, Python, C, C++, MySQL
